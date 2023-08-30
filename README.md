@@ -23,6 +23,8 @@
 
 <img alt="Black Hat Python 2nd Edition" align="left" src="Python_Books/black_hat_python_2E.jpg" style="padding-right:5px;padding-bottom:5px;" width="100">
 
+<img alt="The Hitchhiker Guide to Python" align="left" src="Python_Books/the_hitchhiker_guide_to_python.jpg" style="padding-right:5px;padding-bottom:5px;" width="100">
+
 <img alt="Automate The Boring Stuff With Python 2nd Edition" src="Python_Books/automate_the_boring_stuff_with_python_2E.jpg" style="padding-bottom:5px;" width="100">
 
 ## Novels
